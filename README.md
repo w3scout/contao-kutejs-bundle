@@ -24,4 +24,3 @@ composer require w3scout/contao-kutejs-bundle
 
 ## Examples
 [KUTE.js - Examples](http://thednp.github.io/kute.js/examples.html)
-
