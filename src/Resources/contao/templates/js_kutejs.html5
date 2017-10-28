@@ -1,0 +1,14 @@
+<script src="bundles/w3scoutkutejs/dist/kute.min.js"></script>
+<script src="bundles/w3scoutkutejs/dist/kute-attr.min.js"></script>
+<script src="bundles/w3scoutkutejs/dist/kute-css.min.js"></script>
+<script src="bundles/w3scoutkutejs/dist/kute-svg.min.js"></script>
+<script src="bundles/w3scoutkutejs/dist/kute-text.min.js"></script>
+
+<script>
+(function() {
+
+    /* --- Insert your native KUTE.js code here --- */
+
+
+})();
+</script>

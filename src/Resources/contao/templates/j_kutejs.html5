@@ -1,0 +1,10 @@
+
+<script src="bundles/w3scoutkutejs/dist/kute.min.js"></script>
+<script src="bundles/w3scoutkutejs/dist/kute-jquery.min.js"></script>
+<script>
+jQuery(function($) {
+
+    /* --- Insert your jQuery based KUTE.js code here --- */
+
+});
+</script>

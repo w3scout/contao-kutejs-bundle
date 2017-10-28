@@ -1,0 +1,33 @@
+{
+  "name": "w3scout/contao-kutejs-bundle",
+  "description": "KUTE.js animation engine for Contao 4",
+  "keywords": ["contao", "kute.js", "animation"],
+  "type": "contao-bundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Darko Selesi",
+      "homepage": "https://w3scouts.com"
+    }
+  ],
+  "support":{
+    "email":"hallo@w3scouts.com",
+    "issues":"https://github.com/w3scout/contao-kutejs-bundle/issues",
+    "source":"https://github.com/w3scout/contao-kutejs-bundle"
+  },
+  "require": {
+    "php": ">=5.6",
+    "contao/core-bundle": "^4.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "W3Scout\\KutejsBundle\\": "src/"
+    },
+    "classmap": [
+      "src/Resources/contao/"
+    ]
+  },
+  "extra": {
+    "contao-manager-plugin": "W3Scout\\KutejsBundle\\ContaoManager\\Plugin"
+  }
+}
