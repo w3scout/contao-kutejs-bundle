@@ -4,6 +4,7 @@
 [![Total Downloads](https://poser.pugx.org/w3scout/contao-kutejs-bundle/downloads)](https://packagist.org/packages/w3scout/contao-kutejs-bundle)
 [![Latest Unstable Version](https://poser.pugx.org/w3scout/contao-kutejs-bundle/v/unstable)](https://packagist.org/packages/w3scout/contao-kutejs-bundle)
 [![License](https://poser.pugx.org/w3scout/contao-kutejs-bundle/license)](https://packagist.org/packages/w3scout/contao-kutejs-bundle)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ff320e720e84a21b60e818ebfc5161e)](https://www.codacy.com/app/w3scout/contao-kutejs-bundle?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=w3scout/contao-kutejs-bundle&amp;utm_campaign=Badge_Grade)
 
 ## About
 [KUTE.js](http://thednp.github.io/kute.js/) - Javascript animation engine for Contao 4.
