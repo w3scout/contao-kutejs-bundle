@@ -4,7 +4,7 @@
 <script>
 jQuery(function($) {
 
-	  /* Usage Example 1
+    /* Usage Example 1
      *
      * Create a content-element and add CSS-class "kute-left-to-right"
      */
@@ -21,7 +21,7 @@ jQuery(function($) {
     var tween1 = $('.kute-rotate-minus720').fromTo(
     	{rotate:0},
     	{rotate:-720}
-	  );
+    );
     tween1.start();
 
     /* --- Insert your own KUTE.js code here --- */
