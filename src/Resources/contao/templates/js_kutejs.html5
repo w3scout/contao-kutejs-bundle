@@ -7,8 +7,29 @@
 <script>
 (function() {
 
-    /* --- Insert your native KUTE.js code here --- */
+    /* Usage Example 1
+     *
+     * Create a content-element "text" and add CSS-class "kute-left-to-right"
+     */
+    var tween = KUTE.fromTo(
+        '.kute-left-to-right',
+        {translate:-1000},
+        {translate:0}
+    );
+    tween.start();
 
+    /* Usage Example 2
+     *
+     * Create a content-element "text" and add CSS-class "kute-rotate-minus720"
+     */
+    var tween1 = KUTE.fromTo(
+        '.kute-rotate-minus720',
+        {rotate:0},
+        {rotate:-720}
+    );
+    tween1.start();
+
+    /* --- Insert your native KUTE.js code here --- */
 
 })();
 </script>

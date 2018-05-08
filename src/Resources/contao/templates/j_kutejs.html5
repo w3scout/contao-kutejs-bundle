@@ -4,7 +4,27 @@
 <script>
 jQuery(function($) {
 
-    /* --- Insert your jQuery based KUTE.js code here --- */
+	  /* Usage Example 1
+     *
+     * Create a content-element and add CSS-class "kute-left-to-right"
+     */
+    var tween = $('.kute-left-to-right').fromTo(
+    	{translate:-1000},
+    	{translate:0}
+    );
+    tween.start();
+
+    /* Usage Example 2
+     *
+     * Create a content-element and add CSS-class "kute-rotate-minus720"
+     */
+    var tween1 = $('.kute-rotate-minus720').fromTo(
+    	{rotate:0},
+    	{rotate:-720}
+	  );
+    tween1.start();
+
+    /* --- Insert your own KUTE.js code here --- */
 
 });
 </script>
